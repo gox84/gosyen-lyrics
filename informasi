@@ -1,1 +1,18 @@
-
+[
+  {
+    "id": "info_001",
+    "title": "Warta Jemaat Sabat Ini",
+    "artist": "Pdt. Nama Pendeta",
+    "date": "Sabat, 20 Mei 2024",
+    "lyrics": "1. Ibadah mulai jam 09.00\n2. Ada jamuan kasih setelah ibadah\n3. Rapat majelis hari Minggu.",
+    "category": "Informasi"
+  },
+  {
+    "id": "info_002",
+    "title": "Jadwal Petugas Ibadah",
+    "artist": "Ketua Jemaat",
+    "date": "Mei 2024",
+    "lyrics": "Pemimpin: Bp. A\nSari Kabar: Ibu B\nOrganis: Sdri. C",
+    "category": "Informasi"
+  }
+]
